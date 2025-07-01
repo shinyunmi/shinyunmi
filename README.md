@@ -9,7 +9,14 @@
 <div>
 <!--body-->
 
-
+<p align="center">
+    <Strong>📱SNS list📱</Strong><br><br>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=Instagram&logoColor=white"/></a>
+    <a href="" target="_blank"><img src = "https://img.shields.io/badge/Velog-20C997?logo=velog&logoColor=white"></a>
+    <br>
+<br><br>
+<Strong>📧Email📧</Strong><br>tlsdbs45@naver.com<br>
+</p>
 
 </div>
 
