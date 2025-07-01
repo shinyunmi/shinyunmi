@@ -20,7 +20,7 @@
 
 
 <!--
-**shinyunmi* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shinyunmi/Yunmi-Shin* is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - Hi there 👋
